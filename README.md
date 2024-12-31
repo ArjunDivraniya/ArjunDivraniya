@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Arjun Divraniya!
 
-<!--
-**ArjunDivraniya/ArjunDivraniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📍 About Me
+- 🏡 From Junagadh, Gujarat, India.
+- 💻 A passionate **Web Developer** and **Photographer**.
+- 🎨 Skilled in **UI/UX design** using Figma.
+- 🌱 Currently learning **Full-Stack Development**.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- **Frontend**: JavaScript, HTML, CSS
+- **Backend**: Node.js, Express, MongoDB
+- **Design Tools**: Figma, Photoshop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📷 My Passions
+- Capturing and sharing the beauty of nature through photography.
+- Check out my photography portfolio [here](#).
+
+### 🌟 Projects
+- Website clones of **YouTube**, **Spotify**, and **Disney** using React.
+- A full-stack website project coming soon!
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com) | [Unsplash](https://unsplash.com) | [Instagram](https://www.instagram.com)

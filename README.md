@@ -4,8 +4,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Junagadh%2C%20Gujarat-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Skills-JavaScript%20%7C%20HTML%20%7C%20CSS-yellow?style=flat-square">
-  <img src="https://img.shields.io/badge/Design%20Tool-Figma-red?style=flat-square">
+
 </p>
 
 ---

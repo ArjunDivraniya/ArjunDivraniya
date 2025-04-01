@@ -1,85 +1,70 @@
-<h1 align="center">👋 Hi, I'm Arjun Divraniya!</h1>
+<h1 align="center">Hi, I'm Arjun Divraniya 👋</h1>
+
 <p align="center">
-  <b>Web Developer | Photographer | UI/UX Enthusiast</b>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Junagadh%2C%20Gujarat-blue?style=flat-square">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 </p>
 
 ---
 
-## 🌟 About Me
-
-- 🎓 **Graduate of Alpha Vidhya Sankul, Junagadh**  
-- 💻 A passionate **Web Developer** and **UI/UX Designer**.  
-- 🎨 **Photography Enthusiast**, capturing the beauty of nature.  
-- 🌱 Currently learning **Full-Stack Development** (React, Node.js, Express, MongoDB).  
-- 🛠️ Skilled in creating creative and user-friendly websites.  
+## 🚀 About Me
+🔹 **B.Tech in Computer Science & Engineering** at Rai University  
+🔹 **Passionate Full-Stack Developer** (React, Node.js, MongoDB)  
+🔹 **UI/UX Enthusiast** with **Figma & Photoshop**  
+🔹 **Photography & Editing Lover** 📸  
 
 ---
 
-## 📷 Photography Portfolio
+## 🛠️ Tech Stack
 
-Photography is my creative outlet! I showcase my work through my personal photography website.  
-[📸 **Explore My Portfolio**](#)  
-- **Website Sections**: Home, Portfolio, About Me, Contact, My Works  
-- Check out my contributions on [Unsplash](https://unsplash.com/@arjun_01).  
+### **Frontend Development**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+</p>
 
----
+### **Backend Development**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+</p>
 
-## 💻 Tech Stack
-
-### 🌐 Frontend
-- JavaScript | HTML | CSS  
-- React | Bootstrap | TailwindCSS  
-
-### 🔗 Backend
-- Node.js | Express  
-- MongoDB  
-
-### 🎨 Design Tools
-- Figma | Photoshop  
-
----
-
-## 🛠️ Projects
-
-### 🔥 **Website Clones**
-- **YouTube Clone**: A React-based dynamic UI  
-- **Spotify Clone**: Music streaming with modern designs  
-- **Disney Clone**: Interactive and aesthetic UI  
-
-### 🎯 **Full-Stack Website (Work in Progress)**
-- A creative full-stack project featuring:
-  - **Frontend**: React
-  - **Backend**: Node.js, Express
-  - **Database**: MongoDB
-
----
-
-## ✨ Fun Facts About Me
-
-- 📸 I balance my love for **coding** and **photography** by dividing my time between both passions.  
-- 🌱 I believe in lifelong learning and constantly enhancing my skills.  
-- 🌎 I love sharing my journey through social media.  
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://unsplash.com/@arjun_01" target="_blank">
-    <img src="https://img.shields.io/badge/Unsplash-%23000000.svg?style=for-the-badge&logo=unsplash&logoColor=white" alt="Unsplash">
-  </a>
-  <a href="https://www.instagram.com/arjun__divraniya__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+### **Tools & Technologies**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40"/>
 </p>
 
 ---
 
-<p align="center">✨ "Code your dreams, and capture your reality!" ✨</p>
+## 📸 Photography & Editing
+🌟 Check out my work on my **[Photography Portfolio](#)**  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArjunDivraniya&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunDivraniya&theme=radical" height="150"/>
+</p>
+
+---
+
+## 📫 Connect with Me  
+📧 **Email:** arjun@example.com  
+🌐 **Portfolio:** [My Website](#)  
+💼 **LinkedIn:** [LinkedIn Profile](#)  
+📷 **Instagram:** [Coding Gita Instagram](#)  
+
+---
+
+🚀 **Let's build something amazing together!**  

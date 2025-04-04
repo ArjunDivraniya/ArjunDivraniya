@@ -47,7 +47,7 @@
 ---
 
 ## 📸 Photography & Editing
-🌟 Check out my work on my **[Photography Portfolio](#)**  
+🌟 Check out my work on my **[Photography Portfolio](https://unsplash.com/@arjun_01)**  
 
 ---
 
@@ -60,10 +60,10 @@
 ---
 
 ## 📫 Connect with Me  
-📧 **Email:** arjun@example.com  
-🌐 **Portfolio:** [My Website](#)  
-💼 **LinkedIn:** [LinkedIn Profile](#)  
-📷 **Instagram:** [Coding Gita Instagram](#)  
+📧 **Email:** arjundivraniya8@gmail.com  
+🌐 **Portfolio:** [My Website](https://arjun-divraniya.vercel.app/)  
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/divraniya-arjun-b51497354/)  
+📷 **Instagram:** [Coding Gita Instagram](https://www.instagram.com/arjun__divraniya__/)  
 
 ---
 
